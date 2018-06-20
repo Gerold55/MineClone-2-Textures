@@ -2,8 +2,8 @@
 MineClone 2 Textures
 
 Special thanks to:
-Kingoscargames,
-toby109tt,
+Kingoscargames (tools, skin) ,
+toby109tt (dirt, grass, wood),
 Stix,
-StarNinjas,
-Ektod
+StarNinjas (birch, acacia),
+Ektod (editted dirt textures)
